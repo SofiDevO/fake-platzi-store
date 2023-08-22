@@ -1,4 +1,4 @@
-# Notes and Projects from the JavaScript Asynchrony Course
+# Notes and Projects from the JavaScript Asynchronism Course
 
 
 
