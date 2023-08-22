@@ -1,0 +1,21 @@
+{
+  "name": "fake-platzi-store",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de asincronismo con javascript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript",
+    "async",
+    "asincronismo"
+  ],
+  "author": "SofiDev",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
